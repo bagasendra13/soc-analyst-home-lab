@@ -12,4 +12,4 @@ The activity appears to be user-generated and legitimate.
 ## Conclusion
 Benign activity.
 ## MITRE ATT&CK Mapping
-T1070 (related file activity observation)
+N/A
