@@ -1,4 +1,4 @@
-# SOC Analyst Home Lab
+# SOC Analyst Home Lab (not finished yet)
 A practical cybersecurity home lab built to develop SOC Analyst skills through hands-on experience with Windows event logs, Sysmon monitoring, process investigation, and network traffic analysis.
 
 ## Lab Environment
